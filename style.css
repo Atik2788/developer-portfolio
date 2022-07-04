@@ -15,6 +15,7 @@ h1 {
 
 section {
     display: flex;
+
 }
 
 .half-width {
@@ -40,4 +41,18 @@ section {
     background-repeat: no-repeat;
     margin: 0%;
     padding: 0%;
+    margin-bottom: 150px;
+}
+
+.dream-sec{
+
+}
+
+.half-width {
+    width: 90%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%
 }
