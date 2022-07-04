@@ -80,13 +80,15 @@ h1 {
 .experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: 0% 10% ;
+    background-size: 180px ;
     margin-bottom: 120px;
 
 }
 
 .exh1{
     /* background-color: rgb(178, 104, 240); */
-    background-image: linear-gradient(rgba(243, 247, 20, 0.829), rgba(81, 238, 8, 0.959));
+    background-image: linear-gradient(rgba(246, 250, 2, 0.986), rgba(76, 240, 0, 0.692));
     width: 300px;
 }
 
@@ -99,7 +101,7 @@ h1 {
     width: 40%;
     padding-left: 7%;
     box-shadow:10px 10px 40px gray;
-    border-left: 7px solid orange;
+    border-left: 7px solid rgb(255, 115, 0);
     margin: 5%;
     
     
