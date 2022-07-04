@@ -81,7 +81,15 @@ h1 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     margin-bottom: 120px;
+
 }
+
+.exh1{
+    /* background-color: rgb(178, 104, 240); */
+    background-image: linear-gradient(rgba(243, 247, 20, 0.829), rgba(81, 238, 8, 0.959));
+    width: 300px;
+}
+
 .experience-div{
     display: flex;
 
